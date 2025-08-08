@@ -4,6 +4,13 @@ public class ex01 {
 
 	public static void main(String[] args) {
 		System.out.println("안녕하세요 팀원 여러분들");
+
+				
+		System.out.println("123456789");
 		
-	}	
-} 
+	
+		System.out.println("저는 팀원 김다혜입니다.");
+
+	}
+
+}
