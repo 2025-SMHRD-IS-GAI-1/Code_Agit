@@ -19,7 +19,7 @@ public class ex01 {
 		
 		System.out.println("전부 다 잘되는게 맞죠?");
 		
-
+		System.out.println("푸쉬연습중인 김다혜");
 	}
 
 }
