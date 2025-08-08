@@ -16,7 +16,7 @@ public class ex01 {
 		
 		System.out.println("저는 팀원 국승균입니다");
 
->>>>>>> f5c3ad994e0399828a93f1e206aa9f7ae1f09225
+		
 	}
 
 }
