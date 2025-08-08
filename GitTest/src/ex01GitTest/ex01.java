@@ -7,6 +7,7 @@ public class ex01 {
 		
 		
 		System.out.println("123456789");
+		
 	}
 
 }
