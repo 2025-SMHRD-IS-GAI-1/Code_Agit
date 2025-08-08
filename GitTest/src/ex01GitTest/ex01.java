@@ -16,7 +16,9 @@ public class ex01 {
 		System.out.println("저는 팀원 김다혜입니다.");
 		
 		System.out.println("저는 팀원 국승균입니다");
-
+		
+		System.out.println("전부 다 잘되는게 맞죠?");
+		
 
 	}
 
