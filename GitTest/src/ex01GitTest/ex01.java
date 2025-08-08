@@ -4,10 +4,12 @@ public class ex01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		
+				
 		System.out.println("123456789");
 		
+	
+		System.out.println("저는 팀원 김다혜입니다.");
+
 	}
 
 }
