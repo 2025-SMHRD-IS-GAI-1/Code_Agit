@@ -4,6 +4,7 @@ public class ex01 {
 
 	public static void main(String[] args) {
 
+		System.out.println("안녕하세요 팀원 여러분들");
 
 	
 		System.out.println("나는 팀원 고문석이다.");
