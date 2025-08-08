@@ -22,6 +22,8 @@ public class ex01 {
 		System.out.println("푸쉬연습중인 김다혜");
 		
 		System.out.println("푸쉬 합니당.");
+		
+		System.out.println("푸쉬 연습하는 승균");
 	}
 
 }
