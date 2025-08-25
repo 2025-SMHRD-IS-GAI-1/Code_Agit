@@ -25,6 +25,8 @@ public class ex01 {
 		
 		System.out.println("푸쉬 연습하는 승균");
 		
+		System.out.println("20250825");
+		System.out.println("이제 코딩을 해봅시다!!!");
 	}
 
 }
