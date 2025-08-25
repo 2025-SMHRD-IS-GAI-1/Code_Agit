@@ -24,6 +24,7 @@ public class ex01 {
 		System.out.println("푸쉬 합니당.");
 		
 		System.out.println("푸쉬 연습하는 승균");
+		
 	}
 
 }
