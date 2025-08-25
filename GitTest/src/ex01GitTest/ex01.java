@@ -26,6 +26,12 @@ public class ex01 {
 		System.out.println("푸쉬 연습하는 승균");
 		
 		System.out.println("20250825");
+<<<<<<< HEAD
+=======
+		System.out.println("이제 코딩을 해봅시다!!!");
+		
+		System.out.println("25.08.25.12:21 다혜 깃 연동 테스트");
+>>>>>>> 3a12aae46d9bd2d3b0f379df4b04a46844f32b68
 	}
 
 }
