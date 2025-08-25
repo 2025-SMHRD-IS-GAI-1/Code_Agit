@@ -27,6 +27,8 @@ public class ex01 {
 		
 		System.out.println("20250825");
 		System.out.println("이제 코딩을 해봅시다!!!");
+		
+		System.out.println("25.08.25.12:21 다혜 깃 연동 테스트");
 	}
 
 }
